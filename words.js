@@ -7039,6 +7039,10 @@ window.WORDS_LIST = `{
     {
       "word": "among us",
       "hint": "Video Games"
-    }
+    },
+	{
+      "word": "hawk tuah",
+	  "hint": "Famous quotes"
+	}
   ]
 }`
